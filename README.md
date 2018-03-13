@@ -13,20 +13,20 @@ This directory includes lecture notes (lesson_notes) and project code (p0 to p5)
 
 
 ## Program Outline:
-0. ML Introduction 
+0. ** ML Introduction ** 
     * P0: Exploratory Project: Titanic Survival Exploration
 
-1. Model Evaluation and Validation
+1. ** Model Evaluation and Validation **
     * P1: Predicting Boston Housing Prices
 
-2. Supervised Learning
+2. ** Supervised Learning **
     * P2: Building a Student Intervention System (Predicting whether or not students will fail so schools can intervene to help them graduate)
 
-3. Unsupervised Learning
+3. ** Unsupervised Learning **
     * P3: Creating Customer Segments (Segmenting customers based on spending in different categories)
 
-4. Reinforcement Learning
+4. ** Reinforcement Learning **
     * P4: Train a Smartcab to Drive (Implement Q-learning algorithm)
 
-5. Machine Learning Capstone Project
+5. ** Machine Learning Capstone Project **
     * HOLD
