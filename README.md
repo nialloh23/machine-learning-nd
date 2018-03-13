@@ -1,7 +1,7 @@
-#Udacity Machine Learning Nanodegree
+# Udacity Machine Learning Nanodegree
 Udacity's Machine Learning Nanodegree project files and notes.
 
-This repository contains project files and lecture notes for Udacity's Machine Learning Engineer Nanodegree program which I started working on in September 2016.
+This repository contains project files and lecture notes for Udacity's [Machine Learning Engineer Nanodegree](https://eu.udacity.com/course/machine-learning-engineer-nanodegree--nd009) program which I started working on in September 2016.
 
 The Machine Learning Engineer Nanodegree is an online certification. It involves
 
@@ -12,14 +12,21 @@ Courses include lecture videos, quizzes and programming problems. These courses 
 This directory includes lecture notes (lesson_notes) and project code (p0 to p5).
 
 
-##Program Outline:
-Exploratory Project: Titanic Survival Exploration
-Model Evaluation and Validation
-Project 1: Predicting Boston Housing Prices
-Supervised Learning
-Project 2: Building a Student Intervention System (Predicting whether or not students will fail so schools can intervene to help them graduate)
-Unsupervised Learning
-Project 3: Creating Customer Segments (Segmenting customers based on spending in different categories)
-Reinforcement Learning
-Project 4: Train a Smartcab to Drive (Implement Q-learning algorithm)
-Machine Learning Specialisation of Choice
+## Program Outline:
+0. ML Introduction 
+    * P0: Exploratory Project: Titanic Survival Exploration
+
+1. Model Evaluation and Validation
+    * P1: Predicting Boston Housing Prices
+
+2. Supervised Learning
+    * P2: Building a Student Intervention System (Predicting whether or not students will fail so schools can intervene to help them graduate)
+
+3. Unsupervised Learning
+    * P3: Creating Customer Segments (Segmenting customers based on spending in different categories)
+
+4. Reinforcement Learning
+    * P4: Train a Smartcab to Drive (Implement Q-learning algorithm)
+
+5. Machine Learning Capstone Project
+    * HOLD
