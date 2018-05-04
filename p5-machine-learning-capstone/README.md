@@ -3,7 +3,7 @@
 
 In this project, I use a number of binary classification algorithms to determine which teachers project applications should be approved on DonorsChoose.org. My final model uses a LightGBM classifier which obtained an ROC_AUC score of 0.79.  
  
-Please see my final Capstone Project Report [here](myLib/README.md)  
+Please see my final Capstone Project Report [here](https://github.com/nialloh23/machine-learning-nd/blob/master/p5-machine-learning-capstone/ML%20Capstone%20Project%20Rev03.pdf)  
 Also, see my original capstone proposal [here](https://github.com/nialloh23/machine-learning-nd/blob/master/p5-machine-learning-capstone/Capstone%20Project%20Proposal_NOH%20Rev02.pdf)  
 
 ## Dataset
@@ -21,5 +21,5 @@ scipy
 
 ## Key Files
 The key files in my project are:  
-**approving_applications_rev01.ipynb** [here](myLib/README.md) - All of my projects code is contained with this single Jupyter Notebook.. 
+**approving_applications_rev01.ipynb** [here](https://github.com/nialloh23/machine-learning-nd/blob/master/p5-machine-learning-capstone/ML%20Capstone%20Project%20Rev03.pdf) - All of my projects code is contained with this single Jupyter Notebook.. 
 
