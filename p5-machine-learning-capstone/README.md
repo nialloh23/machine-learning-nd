@@ -21,5 +21,5 @@ scipy
 
 ## Key Files
 The key files in my project are:  
-**approving_applications_rev01.ipynb** [here](https://github.com/nialloh23/machine-learning-nd/blob/master/p5-machine-learning-capstone/ML%20Capstone%20Project%20Rev03.pdf) - All of my projects code is contained with this single Jupyter Notebook.. 
+**approving_applications_rev01.ipynb** [here](https://github.com/nialloh23/machine-learning-nd/blob/master/p5-machine-learning-capstone/approving_applications_rev01.ipynb) - All of my projects code is contained with this single Jupyter Notebook.. 
 
