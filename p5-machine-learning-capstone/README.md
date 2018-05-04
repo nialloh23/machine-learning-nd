@@ -21,5 +21,5 @@ scipy
 
 ## Key Files
 The key files in my project are:  
-approving_applications_rev01.ipynb [here](myLib/README.md) - All of my projects code is contained with this single Jupyter Notebook.. 
+**approving_applications_rev01.ipynb** [here](myLib/README.md) - All of my projects code is contained with this single Jupyter Notebook.. 
 
