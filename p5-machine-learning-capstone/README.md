@@ -11,7 +11,7 @@ You can download the full data set used for this project [here](https://www.kagg
 The datasets include a train.csv, test.csv and resources.csv and samplesubmission.csv
 
 ## Software & Libraries
-Python 3.5 or higher. Most of the included code also works in Python 2.7. I would suggest downloading with Anaconda as you will get some of the below:  
+Python 3.5 or higher. Most of the included code also works in Python 2.7. The main libraries utilised include:
 nltk  
 numpy   
 pandas  
